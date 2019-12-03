@@ -20,7 +20,7 @@ def L():
         logger.exception(e)
 
 if __name__ == "__main__":
-    stats_word.stats_text(1)
+   # stats_word.stats_text(1)
     T()
     L()
       
